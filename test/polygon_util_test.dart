@@ -1,6 +1,6 @@
 import 'package:maps_toolkit/maps_toolkit.dart';
 import 'package:test/test.dart';
-
+import 'package:latlong2/latlong.dart';
 /// Asserts that the beginning point of the original line matches the beginning
 /// point of the simplified line, and that the end point of the original line
 /// matches the end point of the simplified line.

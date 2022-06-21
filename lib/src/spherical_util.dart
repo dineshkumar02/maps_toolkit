@@ -1,6 +1,5 @@
 import 'dart:math';
-
-import 'latlng.dart';
+import 'package:latlong2/latlong.dart';
 import 'math_util.dart';
 
 /// Port of SphericalUtil from android-maps-utils (https://github.com/googlemaps/android-maps-utils)

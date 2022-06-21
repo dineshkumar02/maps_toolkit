@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'latlng.dart';
+import 'package:latlong2/latlong.dart';
 import 'location.dart';
 import 'spherical_util.dart';
 
